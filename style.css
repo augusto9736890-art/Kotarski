@@ -1,0 +1,50 @@
+img{
+    width: 500px;
+    height: 500px;
+}
+#titulo{
+ text-align: center;
+}
+p{
+     text-align: center;
+     color: #000000;
+     
+}
+h2{
+     text-align: center;
+  background: linear-gradient(to right, #ffffff, #f00202, rgb(255, 255, 255));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+  display: inline-block;
+}
+h1{
+    text-align: center;
+  background: linear-gradient(to right, #fafafa, #f00202, rgb(255, 255, 255));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+  display: inline-block; 
+}
+#p1{
+    text-align: center;
+    border: #000000;
+    box-shadow: #700000;
+}
+#p2{
+    text-align: center;
+}
+#p3{
+     text-align: center;
+}
+#fotos{
+    display: flex;
+    justify-content: center; 
+    align-items: center;    
+    gap: 20px;  
+}
+body{
+    background-color: #700000;
+}
